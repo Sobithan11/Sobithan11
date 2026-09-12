@@ -25,7 +25,7 @@ Django • Flask • Next.js • React • Git • GitHub
 
 A full-stack application designed to help homeowners understand renovation cost uncertainty and budget-overrun risk using probabilistic modelling and Monte Carlo simulation.
 
-**Technologies:** Java • Spring Boot • Vue.js • TypeScript • Python • NumPy
+**Technologies:** Python • Flask • Vue.js • TypeScript • NumPy
 
 ### ⚽ Football Betting Website
 
